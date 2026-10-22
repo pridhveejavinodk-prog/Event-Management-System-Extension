@@ -1,0 +1,8 @@
+out/
+bin/
+*.class
+*.log
+.vscode/
+.idea/
+db.properties
+!db.properties.example
